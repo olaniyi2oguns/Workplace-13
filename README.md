@@ -184,4 +184,5 @@ The same must work with apache LB, so you can switch it by setting respective en
 
 To test this, you can update inventory for each environment and run Ansible against each environment.
 
+![update](./final%20output.jpg)
 
